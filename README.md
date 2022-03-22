@@ -1,0 +1,1 @@
+The purpose of this project is to better understand the principles of using a Version Control System -- GIT -- alongside general html skills to create a website that displays recipes.
